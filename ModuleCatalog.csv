@@ -1,6 +1,6 @@
 module_id,module_name,baseline_hours,complexity_low,complexity_medium,complexity_high,notes
 dashboard,Dashboard,40,0.8,1,1.3,General dashboard for any system
-user_management,User Management,30,0.8,1,1.5,Login, roles, basic permissions
+user_management,User Management,30,0.8,1,1.5,Login roles basic permissions
 crud_module,CRUD Module,16,0.8,1,1.2,Create/read/update/delete functions
 ai_assistant,AI Assistant,35,1,1.4,2,Natural language automation/queries
 api_integration,Integration/API Setup,20,1,1.3,1.8,For each third-party integration
