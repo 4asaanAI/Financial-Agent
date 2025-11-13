@@ -1,0 +1,7 @@
+service,monthly_cost_in_inr,notes
+cloud_hosting,2500,Small-to-medium project baseline
+database,1500,Managed DB
+openai_api,3000,Average usage for small-medium system
+email_service,300,Basic email notifications
+whatsapp_api,500,If client needs WhatsApp integration
+automation_tools,1500,Make/Zapier equivalent cost
